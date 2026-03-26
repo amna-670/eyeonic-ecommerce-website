@@ -1,0 +1,47 @@
+[
+    
+    {
+        "id"    :"1",
+        "title" : "Acuvue Oasys 1-Day with HydraLuxe 90 Pack",
+        "description" : "Acuvue Oasys 1-Day with HydraLuxe 90 Pack offers daily contact lenses designed for all-day comfort, featuring HydraLuxe technology to maintain moisture and reduce dryness. Ideal for those with active lifestyles, they provide clear vision and enhanced comfort throughout the day.",
+        "price" : "$93.00",
+        "image" : "/assets/img/ACUVUE/Acuvue Oasys 1-Day with HydraLuxe 90 Pack.jpg"
+    },
+    {
+        "id"    :"2",
+        "title" : "ACUVUE OASYS 1-Day",
+        "description" : "Offering superior comfort with a smooth, moisture-rich surface, these lenses are perfect for all-day wear and are ideal for those who experience dryness or discomfort with other lenses. ",
+        "price" : "$10.20",
+        "image" : "/assets/img/ACUVUE/ACUVUE OASYS MAX 1-DAY.jpg"
+    },
+    {
+        "id"    :"3",
+        "title" : "ACUVUE OASYS for Astigmatism",
+        "description" : " These lenses are specially designed for people with astigmatism, providing stable vision and long-lasting comfort, ideal for those with an active lifestyle.",
+        "price" : "$25.00",
+        "image" : "/assets/img/ACUVUE/acuvue-oasys.jpg"
+    },
+    
+    {
+        "id"    :"4",
+        "title" : "ACUVUE VITA",
+        "description" : "ACUVUE VITA are monthly contact lenses made with HydraMax technology to provide moisture and comfort for up to 30 days, even in challenging environments like dry air and long hours.",
+        "price" : "$92.00",
+        "image" : "/assets/img/ACUVUE/Acuvue Vita.jpg"
+    }
+    ,
+    {
+        "id"    :"5",
+        "title" : "ACUVUE 2",
+        "description" : "These bi-weekly lenses offer a smooth, soft surface for clear, comfortable vision all day long, and are designed to be easy to use with excellent breathability. ",
+        "price" : "$24.00",
+        "image" : "/assets/img/ACUVUE/Acuvue2.jpg"
+    },
+    {
+        "id"    :"6",
+        "title" : "ACUVUE TruEye",
+        "description" : "These daily disposable lenses feature a unique silicone hydrogel material for exceptional comfort and breathability, perfect for people with sensitive eyes or those seeking a more natural feel.",
+        "price" : "$62.00",
+        "image" : "/assets/img/ACUVUE/Acuvue1-DayMoist_2.jpg"
+    }
+]

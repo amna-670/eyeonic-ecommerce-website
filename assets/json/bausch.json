@@ -1,0 +1,47 @@
+[
+    
+    {
+        "id"    :"1",
+        "title" : "Bausch + Lomb ULTRA",
+        "description" : "These monthly contact lenses feature MoistureSeal technology, providing all-day comfort and clear vision, even in dry environments.",
+        "price" : "$93.00",
+        "image" : "/assets/img/bausch lomb/Bausch + Lomb ULTRA.jpg"
+    },
+    {
+        "id"    :"2",
+        "title" : "Bausch + Lomb PureVision2",
+        "description" : "These silicone hydrogel lenses offer excellent comfort and sharp, clear vision, ideal for people with busy lifestyles, available in both monthly and daily wear options.",
+        "price" : "$10.20",
+        "image" : "/assets/img/bausch lomb/PureVision 2.jpg"
+    },
+    {
+        "id"    :"3",
+        "title" : "Bausch + Lomb Biotrue ONEday",
+        "description" : "These daily disposable lenses are designed to mimic the natural moisture of your eyes, providing exceptional comfort and hydration throughout the day.",
+        "price" : "$25.00",
+        "image" : "/assets/img/bausch lomb/Bausch + Lomb Biotrue ONEday.jpg"
+    },
+    
+    {
+        "id"    :"4",
+        "title" : "Bausch + Lomb SofLens 38",
+        "description" : "A popular choice for those seeking value and comfort, these monthly lenses offer clear vision and high moisture retention for all-day wear.",
+        "price" : "$92.00",
+        "image" : "/assets/img/bausch lomb/SofLens Multifocal.jpeg"
+    }
+    ,
+    {
+        "id"    :"5",
+        "title" : "Bausch + Lomb SofLens Toric",
+        "description" : "Designed for those with astigmatism, these toric lenses offer stable vision and comfort throughout the day with a two-week replacement schedule. ",
+        "price" : "$24.00",
+        "image" : "/assets/img/bausch lomb/Bausch + Lomb SofLens Toric.jpg"
+    },
+    {
+        "id"    :"6",
+        "title" : "Bausch + Lomb Lacelle Color",
+        "description" : "These colored contact lenses offer a natural look with vivid colors while maintaining comfort and breathability, available for both cosmetic and vision-correcting needs.",
+        "price" : "$62.00",
+        "image" : "/assets/img/bausch lomb/ULTRA.jpg"
+    }
+]

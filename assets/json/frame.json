@@ -1,0 +1,170 @@
+[
+    {
+        "id":"1",
+        "title": "Moon Shoot",
+        "description": "The Moon Shot is a women's eyeglass frame that combines a universally flattering round silhouette with premium materials for a confident and stylish look.",
+        "price": "$3.05",
+        "image": "/assets/img/Oakley Brand frame/Moon shoot.jpg"
+    },
+    {
+        "id":"2",
+        "title": "Alian Optics",
+        "description": "The ALAIN frames present a rectangular shape with a full-rim acetate construction, offering a clean and versatile design suitable for various occasions.  ",
+        "price": "$24.00",
+        "image": "/assets/img/Ray-Ban Frames/Alian.jpg"
+    },
+    {
+        "id":"3",
+        "title": "Emy Optics",
+        "description": "The EMY frames showcase a subtle cat-eye shape, offering a feminine and elegant look. Crafted from lightweight materials for enhanced comfort.",
+        "price": "$62.00",
+        "image": "/assets/img/Ray-Ban Frames/emy optics.jpg"
+    },
+    {
+        "id":"4",
+        "title": "Prada PR05UV",
+        "description": "This frame is characterized by its black acetate construction, providing a classic and timeless appearance.",
+        "price": "$426.0 ",
+        "image": "/assets/img/Prada frames/PR05UV-1AB1O1-54.jpg"
+    },
+    {
+        "id":"5",
+        "title": "Prada PR57YV",
+        "description": "It features a matte brown finish with a semi-rimless metal frame, offering a sleek and modern look.",
+        "price": "$98.00",
+        "image": "/assets/img/Prada frames/PR57YV-02Q1O1-54.jpg"
+    },
+    {
+        "id":"6",
+        "title": "Pitchman R",
+        "description": " It features round lenses with a classic notch bridge, combining a timeless look with modern materials for enhanced comfort and durability.  ",
+        "price": "$29.00 ",
+        "image": "/assets/img/Oakley Brand frame/Pitchman R.jpg"
+    },
+    {
+        "id":"7",
+        "title": "Charlie",
+        "description": "It featuring versatile designs like round or square lenses, suitable for various face shapes.",
+        "price": "$49.99",
+        "image": "/assets/img/Lens-direct frames/Charlie.jpg"
+    },
+    {
+        "id":"8",
+        "title": "Taunt",
+        "description": "Taunt eyeglass frame offers a blend of classic design and modern aesthetics, suitable for a variety of face shapes. ",
+        "price": "$79.00",
+        "image": "/assets/img/Oakley Brand frame/Taunt.jpg"
+    },
+    {
+        "id":"9",
+        "title": "Aviator",
+        "description": " Inspired by the iconic aviator style, these frames offer a teardrop lens shape with a thin metal frame, delivering a classic yet bold look.",
+        "price": "$19.99",
+        "image": "/assets/img/Ray-Ban Frames/Aviator optics.jpg"
+    },
+    {
+        "id":"10",
+        "title": "New Clubmaster",
+        "description": "These frames feature a combination of acetate and metal materials, delivering a retro yet modern look.",
+        "price": "$10.00",
+        "image": "/assets/img/Ray-Ban Frames/New clubmaster optics.jpg"
+    },
+    {
+        "id":"11",
+        "title": "Fuel Line",
+        "description": "The Fuel Line is a men's eyeglass frame that combines minimalist design with Oakley's renowned craftsmanship.",
+        "price": "$35.00",
+        "image": "/assets/img/Oakley Brand frame/fuel line.jpg"
+    },
+    {
+        "id":"12",
+        "title": "Side swept",
+        "description": "The Oakley Side Swept eyeglass frame combines a flattering square-like shape with a modified cat-eye design, enhanced by elegant metal detailing for a modern aesthetic.",
+        "price": "$299.0",
+        "image": "/assets/img/Oakley Brand frame/Side swept.jpg"
+    },
+    {
+        "id":"13",
+        "title": "Bain Bridge",
+        "description": "These eyeglasses maintain the pilot shape with metal frames, offering a sophisticated look suitable for various occasions. ",
+        "price": "$62.00",
+        "image": "/assets/img/Ray-Ban Frames/Bain bridge optics.jpg"
+    },
+    {
+        "id":"14",
+        "title": "Frank titanium",
+        "description": "It Features a lightweight titanium frame, offering durability and comfort in a sleek design.",
+        "price": "$426.0 ",
+        "image": "/assets/img/Ray-Ban Frames/Frank titanium Optics.jpg"
+    },
+    {
+        "id":"15",
+        "title": "Voon",
+        "description": "The Voon eyeglasses feature a semi-rimless, square frame design crafted from lightweight C5™ material, offering both durability and comfort. ",
+        "price": "$3.05",
+        "image": "/assets/img/Oakley Brand frame/voon.jpg"
+    },
+    {
+        "id":"16",
+        "title": "Prada PR14UV",
+        "description": "The Prada PR14UV-KJM1O1-52 eyeglasses are a part of Prada's Catwalk collection, embodying the brand's commitment to Italian design and craftsmanship.",
+        "price": "$29.00 ",
+        "image": "/assets/img/Prada frames/PR14UV-KJM1O1-52.jpg"
+    },
+    {
+        "id":"17",
+        "title": "Explorer V",
+        "description": "The Ray-Ban Explorer V Optics (model RB6545) eyeglasses feature an irregular metal frame design, offering a modern and distinctive look.",
+        "price": "$49.99",
+        "image": "/assets/img/Ray-Ban Frames/Explorer v optics.jpg"
+    },
+    {
+        "id":"18",
+        "title": "Peyton",
+        "description": "Peyton frames feature a modern square shape with a slight cat-eye flair, providing a contemporary twist to a classic design",
+        "price": "$79.00",
+        "image": "/assets/img/Lens-direct frames/Peyton.jpg"
+    },
+    {
+        "id":"19",
+        "title": "Futurity ",
+        "description": "The Oakley Futurity eyeglasses are inspired by the popular Oakley Sutro sunglasses, featuring a bold rectangular shape that stands out.",
+        "price": "$19.99",
+        "image": "/assets/img/Oakley Brand frame/futurity.jpg"
+    },
+    {
+        "id":"20",
+        "title": "WingFold EVS",
+        "description": "The Oakley Wingfold™ EVS (model OX5115) eyeglasses are designed for those seeking a combination of lightweight comfort and modern aesthetics. ",
+        "price": "$10.00",
+        "image": "/assets/img/Oakley Brand frame/WingFold Evs.jpg"
+    },
+    {
+        "id":"21",
+        "title": "RB3734V Optic",
+        "description": "The Ray-Ban RB3734V Optics eyeglasses feature a distinctive irregular metal frame design, offering a modern and stylish look. ",
+        "price": "$35.00",
+        "image": "/assets/img/Ray-Ban Frames/Rb3734V Optics.jpg"
+    },
+    {
+        "id":"22",
+        "title": "RB5288 Optics",
+        "description": "The Ray-Ban RB5288 eyeglasses are a classic full-rimmed frame crafted from injected acetate, featuring a straight browline, saddle bridge, and shark-fin arms, combining style and functionality.",
+        "price": "$299.0",
+        "image": "/assets/img/Ray-Ban Frames/RB5288 Optics.jpg"
+    },
+    {
+        "id":"23",
+        "title": "Alden",
+        "description": " Frames with this name might feature a classic and timeless design with rectangular or oval lenses and a sturdy bridge.      ",
+        "price": "$99.00",
+        "image": "/assets/img/Lens-direct frames/Alden.jpg"
+    },
+    {
+        "id":"24",
+        "title": "Brooke",
+        "description": "Brooke have a feminine touch, potentially featuring soft curves, cat-eye shapes, or subtle decorative elements. ",
+        "price": "$11.20",
+        "image": "/assets/img/Lens-direct frames/brooke.jpg"
+    }
+]

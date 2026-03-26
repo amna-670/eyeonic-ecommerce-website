@@ -1,0 +1,122 @@
+[
+    
+    {
+        "id"    :"1",
+        "title" : "aqua hazel",
+        "description" : "Aqua Hazel lenses blend hazel tones with a soft aqua or blue-green tint, creating a natural yet vibrant eye color. They offer a subtle, refreshing look with depth and brightness, ideal for enhancing the natural eye color.",
+        "price" : "$93.00",
+        "image" : "/assets/img/abc/aqua hazel.jpg"
+    },
+    {
+        "id"    :"2",
+        "title" : "blue lens",
+        "description" : "Blue lenses give the eyes a striking, vivid blue hue. They can range from bright, bold blue to softer, more natural-looking shades. Blue contact lenses are great for a dramatic change or enhancing natural eye color with a cool, refreshing tone. ",
+        "price" : "$10.20",
+        "image" : "/assets/img/abc/blue lens.jpg"
+    },
+    {
+        "id"    :"3",
+        "title" : "brown lens",
+        "description" : " Brown lenses give the eyes a warm, rich brown color. They can range from light honey tones to deeper, darker browns, enhancing natural eye color or creating a soft, natural look with added depth and warmth.",
+        "price" : "$25.00",
+        "image" : "/assets/img/abc/brown lens.jpg"
+    },
+    
+    {
+        "id"    :"4",
+        "title" : "cat eye lens",
+        "description" : "Cat eye lenses are designed to give the eyes a dramatic, bold look, often featuring a slanted or angular shape that mimics the sharp, elongated appearance of a cat's eyes. They typically have an enlarged, exaggerated iris with a unique, striking design, perfect for creating a mysterious or edgy aesthetic. These lenses are popular in cosplay, fashion, or for those looking to make a bold statement with their eye makeup.",
+        "price" : "$92.00",
+        "image" : "/assets/img/abc/cat eye lens.jpg"
+    }
+    ,
+    {
+        "id"    :"5",
+        "title" : "coffee brown lens",
+        "description" : "Coffee brown lenses offer a warm, rich brown color with a slightly deeper, more intense tone than standard brown lenses. They create a natural yet vibrant look, adding depth and dimension to the eyes with a soft, subtle gradient effect. These lenses are perfect for those who want a warm, earthy eye color that enhances their natural beauty. ",
+        "price" : "$24.00",
+        "image" : "/assets/img/abc/coffee brown lens.jpg"
+    },
+    {
+        "id"    :"6",
+        "title" : "golden yellow lens",
+        "description" : "Golden yellow lenses give the eyes a striking, bright yellow or amber hue with a golden shimmer. They create an eye-catching, bold look, often used for dramatic or fantasy-inspired styles. These lenses are perfect for adding a unique, luminous effect to your eyes, making them stand out with a warm, glowing appearance.",
+        "price" : "$62.00",
+        "image" : "/assets/img/abc/golden yellow lens.jpg"
+    }
+    ,
+    {
+        "id"    :"7",
+        "title" : "gray lens",
+        "description" : "With water gradient technology, these lenses are super comfortable, providing a smooth transition from the core to the outer surface.",
+        "price" : "$426.0 ",
+        "image" : "/assets/img/abc/gray lens.jpg"
+    },
+    
+
+    
+    {
+        "id"    :"8",
+        "title" : "pink lens",
+        "description" : "Designed for all-day comfort, these lenses are ideal for dry or sensitive eyes, providing a high level of moisture..",
+        "price" : "$3.05",
+        "image" : "/assets/img/abc/pink lens.jpg"
+    },
+    
+    {
+        "id"    :"9",
+        "title" : "purple lens",
+        "description" : "Monthly contact lenses that offer great comfort, even in low-humidity environments. They're also designed to retain moisture throughout the day. ",
+        "price" : "$22.00 ",
+        "image" : "/assets/img/abc/purple lens.jpg"
+    },
+
+    {
+        "id"    :"10",
+        "title" : "red lens",
+        "description" : "  Known for their ability to maintain moisture, these lenses are designed for users with dry eyes. ",
+        "price" : "$49.99",
+        "image" : "/assets/img/abc/red lens.jpg"
+    }
+,
+    {
+        "id"    :"11",
+        "title" : "sepia lens",
+        "description" : " Offers high hydration and a comfortable fit with UV protection for day-long wear.",
+        "price" : "$79.00",
+        "image" : "/assets/img/abc/sepia lens.jpg"
+    }
+,
+    {
+        "id"    :"12",
+        "title" : "Sterling silver",
+        "description" : "Affordable, comfortable lenses that provide clear, stable vision and are great for daily wear.",
+        "price" : "$19.99",
+        "image" : "/assets/img/abc/Sterling silver.jpg"
+    },
+
+    {
+        "id"    :"13",
+        "title" : "sunset lens",
+        "description" : " Soft, daily lenses offering clear vision and all-day comfort, ideal for people with sensitive eyes..",
+        "price" : "$10.00",
+        "image" : "/assets/img/abc/sunset lens.jpg"
+    }
+,
+
+    {
+        "id"    :"14",
+        "title" : "topaz lens",
+        "description" : "These lenses provide outstanding comfort, moisture, and fresh, clear vision all day long.",
+        "price" : "$35.00",
+        "image" : "/assets/img/abc/topaz lens.jpg"
+    }
+,
+    {
+        "id"    :"15",
+        "title" : "turquoise lens",
+        "description" : " These lenses correct astigmatism while providing superior comfort and moisture throughout the day.",
+        "price" : "$299.0",
+        "image" : "/assets/img/abc/turquoise lens.jpg"
+    }
+]
