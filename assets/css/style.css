@@ -509,7 +509,7 @@ transition: 0.3s;
   }
 }
 
-@media screen and (max-width: 999px) {
+@media screen and(max-width: 999px) {
 
   .item .content {
     left: 50px;
