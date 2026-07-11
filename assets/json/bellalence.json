@@ -1,0 +1,47 @@
+[
+    
+    {
+        "id"    :"1",
+        "title" : "Bella Elite",
+        "description" : "These colored contact lenses enhance the natural beauty of your eyes, offering vivid, bright colors for a striking look, available in both prescription and non-prescription options.",
+        "price" : "$93.00",
+        "image" : "/assets/img/BellaLens/Bella Elite.jpg"
+    },
+    {
+        "id"    :"2",
+        "title" : "Bella Glow",
+        "description" : "Featuring vibrant, high-definition colors, Bella Glow lenses provide a bold, radiant look while ensuring comfort for all-day wear.",
+        "price" : "$10.20",
+        "image" : "/assets/img/BellaLens/Bella Glow.jpg"
+    },
+    {
+        "id"    :"3",
+        "title" : "Bella Fresh",
+        "description" : "These lenses are designed for comfort and style, offering a natural-looking enhancement with a range of beautiful colors for a fresh eye appearance.",
+        "price" : "$25.00",
+        "image" : "/assets/img/BellaLens/Bella Fresh.jpg"
+    },
+    
+    {
+        "id"    :"4",
+        "title" : "Bella Contact Lenses",
+        "description" : "Bella lenses offer a variety of colors and styles to suit different looks, providing comfort and clarity for both cosmetic and vision-correcting purposes.",
+        "price" : "$92.00",
+        "image" : "/assets/img/BellaLens/Bella Contact Lenses.jpg"
+    }
+    ,
+    {
+        "id"    :"5",
+        "title" : "Bella Supernatural",
+        "description" : "With their intense and realistic color tones, these lenses give a dramatic yet natural effect, perfect for a supernatural eye transformation. ",
+        "price" : "$24.00",
+        "image" : "/assets/img/BellaLens/Bella Supernatural.jpg"
+    },
+    {
+        "id"    :"6",
+        "title" : "Bella Diamond",
+        "description" : "These lenses feature multi-toned colors that provide a sparkling, intense eye look, designed for those seeking a bold, glamorous effect.",
+        "price" : "$62.00",
+        "image" : "/assets/img/BellaLens/Bella Diamond.jpg"
+    }
+]

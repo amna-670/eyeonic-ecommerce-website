@@ -1,0 +1,186 @@
+[
+    
+    {
+        "id"    :"1",
+        "title" : "Visionary Elite",
+        "description" : "   The Visionary Elite collection blends innovation and luxury, offering sleek, stylish frames that provide maximum comfort for all-day wear. ",
+        "price" : "$99.00",
+        "image" : "/assets/img/products/visionry elite.jpg"
+    },
+    {
+        "id"    :"2",
+        "title" : "Crystal Clear",
+        "description" : "Crystal Clear frames are designed with a minimalist aesthetic, offering a clean and sharp look. The lightweight design ensures comfort.. ",
+        "price" : "$11.20",
+        "image" : "/assets/img/products/crystal clear.jpg"
+    },
+    {
+        "id"    :"3",
+        "title" : "Solar Shades",
+        "description" : " Solar Shades provide the perfect combination of protection and fashion. With trendy designs and advanced UV-blocking technology.",
+        "price" : "$25.00",
+        "image" : "/assets/img/products/soalr shades.jpg"
+    },
+    
+    {
+        "id"    :"4",
+        "title" : "RayLite Pro",
+        "description" : "The RayLite Pro series is the ultimate choice for comfort and performance. With cutting-edge design and ultra-lightweight materials.",
+        "price" : "$98.00",
+        "image" : "/assets/img/products/ray lite pro.jpg"
+    }
+    ,
+    {
+        "id"    :"5",
+        "title" : "Urban Chic",
+        "description" : " Urban Chic frames feature bold, modern designs with a distinctive urban vibe. Whether you're strolling through the city or attending a casual event. ",
+        "price" : "$24.00",
+        "image" : "/assets/img/products/urban chic.jpg"
+    },
+    {
+        "id"    :"6",
+        "title" : "Evergreen Optic",
+        "description" : "Evergreen Optic is a sustainable collection crafted from eco-friendly materials, offering a perfect blend of style and environmental consciousness. ",
+        "price" : "$62.00",
+        "image" : "/assets/img/products/evergreen optic.jpg"
+    }
+    ,
+    {
+        "id"    :"7",
+        "title" : "Night View",
+        "description" : " Night View frames are designed with night-time driving in mind. Featuring lenses that reduce glare and enhance clarity, these frames improve visibility in low-light conditions, making them the perfect choice for night drivers.",
+        "price" : "$426.0 ",
+        "image" : "/assets/img/products/night view.jpg"
+    },
+    
+
+    
+    {
+        "id"    :"8",
+        "title" : "Timeless Grace",
+        "description" : "Timeless Grace frames offer classic elegance with refined lines, making them perfect for any occasion.",
+        "price" : "$3.05",
+        "image" : "/assets/img/products/timeless grace.jpg"
+    },
+    
+    {
+        "id"    :"9",
+        "title" : "SunSet Eclipse",
+        "description" : " SunSet Eclipse sunglasses combine high-fashion and functionality. The lenses feature a unique color gradient, providing a striking look while offering superior protection against the sun. ",
+        "price" : "$29.00 ",
+        "image" : "/assets/img/products/sunset eclipse.jpg"
+    },
+
+    {
+        "id"    :"10",
+        "title" : "AeroFrame",
+        "description" : "  AeroFrame is built for active individuals who demand flexibility and strength in their eyewear. ",
+        "price" : "$49.99",
+        "image" : "/assets/img/products/aero frame.jpg"
+    }
+,
+    {
+        "id"    :"11",
+        "title" : "Skyline Optics",
+        "description" : "  Skyline Optics frames offer a high-fashion, urban feel with their chic design and sophisticated details. These frames are ideal for city dwellers and fashion-forward individuals who appreciate clean lines and contemporary style.",
+        "price" : "$79.00",
+        "image" : "/assets/img/products/skyline optics.jpg"
+    }
+,
+    {
+        "id"    :"12",
+        "title" : "Elegance Peak",
+        "description" : "Elegance Peak frames embody sophistication and class. With their refined design and attention to detail. ",
+        "price" : "$19.99",
+        "image" : "/assets/img/products/elegance peak.jpg"
+    },
+
+    {
+        "id"    :"13",
+        "title" : "Bold Impact",
+        "description" : " Bold Impact frames are designed with large, attention-grabbing shapes and high-impact colors, these frames make an unforgettable impression and showcase your bold sense of style.",
+        "price" : "$10.00",
+        "image" : "/assets/img/products/bold impact.jpg"
+    }
+,
+
+    {
+        "id"    :"14",
+        "title" : "Cosmo Vision",
+        "description" : "Cosmo Vision frames feature cutting-edge designs with a sleek, sci-fi aesthetic. These frames are for those who embrace innovation and want to push the boundaries of eyewear fashion. ",
+        "price" : "$35.00",
+        "image" : "/assets/img/products/cosmo vision.jpg"
+    }
+,
+    {
+        "id"    :"15",
+        "title" : "Glide Flex",
+        "description" : "  GlideFlex frames are designed to conform to the unique shape of your face, ensuring maximum comfort. ",
+        "price" : "$299.0",
+        "image" : "/assets/img/products/glide flex.jpg"
+    },
+    
+    {
+        "id":"16",
+        "title": "Holbrook",
+        "description": "The Holbrook sunglasses combine a classic square frame with modern design. Made from durable acetate, they offer both style and comfort, perfect for everyday wear. ",
+        "price": "Rs. 3569",
+        "image": "/assets/img/Holbrook.jpg"
+    },
+    {
+        "id":"17",
+        "title": "Enigma ink",
+        "description": "The Enigma Ink sunglasses feature a bold, contemporary design with striking ink-colored frames. A stylish choice for those seeking a unique, standout look.",
+        "price": "Rs. 2099",
+        "image": "/assets/img/Enigma ink.jpg"
+    },
+    {
+        "id":"18",
+        "title": "Flex scape",
+        "description": "Built for flexibility and comfort, the Flex Scape sunglasses feature a lightweight frame with a flexible, sporty design, perfect for active lifestyles.",
+        "price": "Rs. 2898",
+        "image": "/assets/img/Flex scape.jpg"
+    },
+    {
+        "id":"19",
+        "title": "Frogskins",
+        "description": " The Frogskins sunglasses offer a vibrant, retro-inspired design with a colorful frame and lightweight construction, making them perfect for casual, sunny days. ",
+        "price": "Rs. 3499",
+        "image": "/assets/img/Frogskins.jpg"
+    },
+    {
+        "id":"20",
+        "title": "HTSN Metal",
+        "description": "  The HTSN Metal sunglasses combine sleek metal frames with a modern, minimalistic design, offering both durability and style in a lightweight package.",
+        "price": "Rs. 2999",
+        "image": "/assets/img/HTSN Metal.jpg"
+    },
+    {
+        "id":"21",
+        "title": "BiSphaera",
+        "description": "  The BiSphaera sunglasses feature an innovative design with a spherical frame, offering a futuristic, fashion-forward look that stands out from the crowd.",
+        "price": "Rs. 2099",
+        "image": "/assets/img/BiSphaera.jpg"
+    },
+    {
+        "id":"22",
+        "title": "Flak 2.0 XL",
+        "description": "The Flak 2.0 XL sunglasses offer enhanced coverage with a larger frame and high-performance lenses, ideal for sports and outdoor activities.",
+        "price": "Rs. 3990",
+        "image": "/assets/img/Flak 2.0 XL.jpg"
+    },
+    {
+        "id":"23",
+        "title": "Thurso",
+        "description": "The Thurso sunglasses feature a bold, wraparound design with a durable frame, providing excellent protection and a sporty, adventurous look. ",
+        "price": "Rs. 4199",
+        "image": "/assets/img/Thurso.jpg"
+    },
+    {
+        "id":"24",
+        "title": "Wind Jacket",
+        "description": "  Designed for outdoor enthusiasts, the Wind Jacket sunglasses offer a snug fit, wraparound frame, and enhanced protection against wind and debris during high-speed activities. ",
+        "price": "Rs. 3100",
+        "image": "/assets/img/Wind Jacket.jpg"
+    }
+]

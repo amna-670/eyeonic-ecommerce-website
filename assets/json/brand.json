@@ -1,0 +1,68 @@
+[
+    {
+        "id"    :"1",
+        "title" : "Acuvue Oasys 1-Day with HydraLuxe 90 Pack",
+        "description" : "Acuvue Oasys 1-Day with HydraLuxe 90 Pack offers daily contact lenses designed for all-day comfort, featuring HydraLuxe technology to maintain moisture and reduce dryness. Ideal for those with active lifestyles, they provide clear vision and enhanced comfort throughout the day.",
+        "price" : "$93.00",
+        "image" : "/assets/img/ACUVUE/Acuvue Oasys 1-Day with HydraLuxe 90 Pack.jpg"
+    },
+    {
+        "id"    :"2",
+        "title" : "ACUVUE OASYS 1-Day",
+        "description" : "Offering superior comfort with a smooth, moisture-rich surface, these lenses are perfect for all-day wear and are ideal for those who experience dryness or discomfort with other lenses. ",
+        "price" : "$10.20",
+        "image" : "/assets/img/ACUVUE/ACUVUE OASYS MAX 1-DAY.jpg"
+    },
+    {
+        "id"    :"3",
+        "title" : "ACUVUE OASYS for Astigmatism",
+        "description" : " These lenses are specially designed for people with astigmatism, providing stable vision and long-lasting comfort, ideal for those with an active lifestyle.",
+        "price" : "$25.00",
+        "image" : "/assets/img/ACUVUE/acuvue-oasys.jpg"
+    },
+     
+    {
+        "id"    :"4",
+        "title" : "Bausch + Lomb SofLens 38",
+        "description" : "A popular choice for those seeking value and comfort, these monthly lenses offer clear vision and high moisture retention for all-day wear.",
+        "price" : "$92.00",
+        "image" : "/assets/img/bausch lomb/SofLens Multifocal.jpeg"
+    }
+    ,
+    {
+        "id"    :"5",
+        "title" : "Bausch + Lomb SofLens Toric",
+        "description" : "Designed for those with astigmatism, these toric lenses offer stable vision and comfort throughout the day with a two-week replacement schedule. ",
+        "price" : "$24.00",
+        "image" : "/assets/img/bausch lomb/Bausch + Lomb SofLens Toric.jpg"
+    },
+    {
+        "id"    :"6",
+        "title" : "Bausch + Lomb Lacelle Color",
+        "description" : "These colored contact lenses offer a natural look with vivid colors while maintaining comfort and breathability, available for both cosmetic and vision-correcting needs.",
+        "price" : "$62.00",
+        "image" : "/assets/img/bausch lomb/ULTRA.jpg"
+    }
+    , {
+        "id"    :"7",
+        "title" : "Bella Contact Lenses",
+        "description" : "Bella lenses offer a variety of colors and styles to suit different looks, providing comfort and clarity for both cosmetic and vision-correcting purposes.",
+        "price" : "$92.00",
+        "image" : "/assets/img/BellaLens/Bella Contact Lenses.jpg"
+    }
+    ,
+    {
+        "id"    :"8",
+        "title" : "Bella Supernatural",
+        "description" : "With their intense and realistic color tones, these lenses give a dramatic yet natural effect, perfect for a supernatural eye transformation. ",
+        "price" : "$24.00",
+        "image" : "/assets/img/BellaLens/Bella Supernatural.jpg"
+    },
+    {
+        "id"    :"9",
+        "title" : "Bella Diamond",
+        "description" : "These lenses feature multi-toned colors that provide a sparkling, intense eye look, designed for those seeking a bold, glamorous effect.",
+        "price" : "$62.00",
+        "image" : "/assets/img/BellaLens/Bella Diamond.jpg"
+    }
+]
