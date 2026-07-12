@@ -652,6 +652,14 @@ transition: 0.3s;
   .containerd {
     grid-template-columns: 1fr;
   }
+
+  #ab {
+    grid-row: span 1;
+  }
+
+  #bc {
+    grid-column: span 1;
+  }
 }
 
 
