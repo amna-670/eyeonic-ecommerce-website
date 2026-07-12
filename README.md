@@ -53,9 +53,6 @@ The website is optimized for all screen sizes using media queries, ensuring a sm
 
 Contributions, issues, and feature requests are welcome. Feel free to check the [issues page](https://github.com/amna-670/eyeonic-ecommerce-website/issues).
 
-## 📄 License
-
-This project is open source and available under the [MIT License](LICENSE).
 
 ## 👤 Author
 
