@@ -4,7 +4,7 @@
         "category": "Frames",
         "description": "The Ray-Ban Aviator Classic sunglasses are a timeless symbol of style and sophistication. Originally designed for pilots in the 1930s, these iconic sunglasses have become a symbol of elegance and fashion worldwide.",
         "price": "$180",
-        "image": "/assets/img/solution/Avizor GP Multi 120ml.jpg",
+        "image": "/assets/img/solution/Avizor GP Multi 120ml.JPG",
         "features": ["Lightweight metal frame", "Polarized lenses", "UV Protection", "Available in multiple colors"]
       },
       {
@@ -36,7 +36,7 @@
         "category": "Frames",
         "description": "The Oakley Sutro sunglasses provide a bold, high-performance design, perfect for cyclists and athletes. With a large shield lens, these sunglasses offer excellent visibility and comfort.",
         "price": "$230",
-        "image": "/assets/img/solution/Renu Multi Plus 120ML Lens Solution.jpg",
+        "image": "/assets/img/solution/Renu Multi Plus 120ML Lens Solution.JPG",
         "features": ["Large shield lens", "Durable O-Matter frame", "UV Protection", "Great for sports"]
       },
       {
@@ -44,7 +44,7 @@
         "category": "Frames",
         "description": "The Maui Jim Peahi sunglasses offer premium polarized lenses, excellent for reducing glare and enhancing color in bright environments. Ideal for outdoor activities like hiking and beach trips.",
         "price": "$280",
-        "image": "/assets/img/solution/P2 Penta Plex Lens Solution 120ML.jpg",
+        "image": "/assets/img/solution/P2 Penta Plex Lens Solution 120ML.JPG",
         "features": ["Polarized lenses", "UV Protection", "Lightweight design", "Perfect for outdoor activities"]
       },
       {
@@ -52,7 +52,7 @@
         "category": "Frames",
         "description": "Gucci GG0061S sunglasses combine high fashion with classic styling. These luxury sunglasses come with oversized frames and a striking design, perfect for fashion enthusiasts.",
         "price": "$420",
-        "image": "/assets/img/solution/Optiano Contact Lens Solution - 60ml.jpg",
+        "image": "/assets/img/solution/Optiano Contact Lens Solution - 60ml.JPG",
         "features": ["Luxury brand", "Oversized frames", "UV Protection", "Premium build"]
       },
       {
@@ -60,7 +60,7 @@
         "category": "Frames",
         "description": "Prada PR 17MV sunglasses offer a sophisticated look with their distinctive square frames and elegant design. Ideal for those seeking both style and functionality.",
         "price": "$350",
-        "image": "/assets/img/solution/Avizor Unica Sensitive 100 ml.jpg",
+        "image": "/assets/img/solution/Avizor Unica Sensitive 100 ml.JPG",
         "features": ["Sophisticated style", "UV Protection", "Stylish square frames", "Luxury brand"]
       },
       {
@@ -68,7 +68,7 @@
         "category": "Frames",
         "description": "Nike Vaporwing Elite sunglasses are designed for athletes, offering a lightweight and aerodynamic frame. With advanced lens technology, they provide superior clarity and vision during high-intensity activities.",
         "price": "$200",
-        "image": "/assets/img/solution/Avizor All Clean Soft 100ml.jpg",
+        "image": "/assets/img/solution/Avizor All Clean Soft 100ml.JPG",
         "features": ["Aerodynamic design", "Lens technology", "UV Protection", "Lightweight and durable"]
       },
       {
@@ -76,7 +76,7 @@
         "category": "Frames",
         "description": "Fossil FOS 6018/S sunglasses offer a trendy design with durable metal frames. These sunglasses are perfect for casual wear with a touch of modern flair.",
         "price": "$130",
-        "image": "/assets/img/solution/OPTI-FREE Puremoist.jpg",
+        "image": "/assets/img/solution/OPTI-FREE puremoist.JPG",
         "features": ["Trendy design", "Metal frame", "UV Protection", "Casual wear"]
       },
       {
@@ -84,7 +84,7 @@
         "category": "Lenses",
         "description": "Acuvue Oasys 1-Day contact lenses offer all-day comfort and clarity for individuals with active lifestyles. Designed with Hydraglyde Technology, these lenses provide superior moisture and hydration.",
         "price": "$35",
-        "image": "/assets/img/solution/Bella Elite Lens Solution – 150ml.jpg",
+        "image": "/assets/img/solution/Bella Elite Lens Solution - 150ml.JPG",
         "features": ["Hydraglyde Technology", "UV Protection", "Ideal for Dry Eyes", "Daily Disposable"]
       },
       {

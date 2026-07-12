@@ -155,29 +155,29 @@
 
 window.addToWishlist = function (product, iconElement) {
     let wishlist = JSON.parse(localStorage.getItem('wishlist')) || [];
-    const productExists = wishlist.some(item => item.id === product.id);
+    const productExists = wishlist.some(item => item.name === product.name);
 
     if (!productExists) {
         wishlist.push(product);
         localStorage.setItem('wishlist', JSON.stringify(wishlist));
         iconElement.innerHTML = '&#9829;';
-        alert(`${product.title} added to wishlist!`);
+        alert(`${product.name} added to wishlist!`);
     } else {
-        alert(`${product.title} is already in your wishlist!`);
+        alert(`${product.name} is already in your wishlist!`);
     }
 };
 
         window.addToWishlist = function (product, iconElement) {
             let wishlist = JSON.parse(localStorage.getItem('wishlist')) || [];
-            const productExists = wishlist.some(item => item.id === product.id);
+            const productExists = wishlist.some(item => item.name === product.name);
 
             if (!productExists) {
                 wishlist.push(product);
                 localStorage.setItem('wishlist', JSON.stringify(wishlist));
                 iconElement.innerHTML = '&#9829;'; 
-                alert(`${product.title} added to wishlist!`); 
+                alert(`${product.name} added to wishlist!`); 
             } else {
-                alert(`${product.title} is already in your wishlist!`); 
+                alert(`${product.name} is already in your wishlist!`); 
             }
         };
   let products = [];
@@ -196,7 +196,7 @@ window.addToWishlist = function (product, iconElement) {
                       <div class="pro-Box">
                           <div class="product-img">
                             <div class="wishlist-icon" onclick='addToWishlist(${JSON.stringify(item)}, this)'>&#9825;</div>
-                              <img src="${item.image}" alt="${item.title}">
+                              <img src="${item.image}" alt="${item.name}">
                           </div>
                           <h2>${item.name}</h2>
                           <p>${item.description}</p>
@@ -214,7 +214,6 @@ window.addToWishlist = function (product, iconElement) {
                               </ul>
                               <button class="pdf-btn" onclick="generatePDF(${index})">
                                 Download Pdf <i class="fa-solid fa-file-arrow-down"></i>
-                              </button>
                               </button>
                           </div>
                       </div>
