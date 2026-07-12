@@ -132,7 +132,7 @@
         "title": "Enigma ink",
         "description": "The Enigma Ink sunglasses feature a bold, contemporary design with striking ink-colored frames. A stylish choice for those seeking a unique, standout look.",
         "price": "Rs. 2099",
-        "image": "/assets/img/Enigma ink.jpg"
+        "image": "/assets/img/Enigma ink.JPG"
     },
     {
         "id":"18",
@@ -146,7 +146,7 @@
         "title": "Frogskins",
         "description": " The Frogskins sunglasses offer a vibrant, retro-inspired design with a colorful frame and lightweight construction, making them perfect for casual, sunny days. ",
         "price": "Rs. 3499",
-        "image": "/assets/img/Frogskins.jpg"
+        "image": "/assets/img/Frogskins.JPG"
     },
     {
         "id":"20",
@@ -167,7 +167,7 @@
         "title": "Flak 2.0 XL",
         "description": "The Flak 2.0 XL sunglasses offer enhanced coverage with a larger frame and high-performance lenses, ideal for sports and outdoor activities.",
         "price": "Rs. 3990",
-        "image": "/assets/img/Flak 2.0 XL.jpg"
+        "image": "/assets/img/Flak 2.0 XL.JPG"
     },
     {
         "id":"23",

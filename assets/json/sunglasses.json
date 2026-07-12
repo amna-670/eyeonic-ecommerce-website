@@ -19,7 +19,7 @@
         "title": "Clubmaster classic",
         "description": " The Clubmaster Classic blends vintage charm with modern style, featuring a distinctive browline design and metal temples for a sophisticated look.",
         "price": "Rs. 3579",
-        "image": "/assets/img/Clubmaster classic.jpg"
+        "image": "/assets/img/Clubmaster Classic.JPG"
     },
     {
         "id":"4",
@@ -33,14 +33,14 @@
         "title": "Explorer V",
         "description": "Designed for adventurers, the Explorer V sunglasses feature a durable square frame and reinforced lenses, perfect for outdoor activities. ",
         "price": "Rs. 3199",
-        "image": "/assets/img/Explorer V.jpg"
+        "image": "/assets/img/Explorer V.JPG"
     },
     {
         "id":"6",
         "title": "Hexagonal flat lenses",
         "description": "Bold and geometric, the Hexagonal Flat Lenses sunglasses feature a unique shape and flat lenses, offering a modern, edgy look.",
         "price": "Rs. 4999",
-        "image": "/assets/img/Hexagonal flat lenses.jpg"
+        "image": "/assets/img/HEXAGONAL FLAT LENSES.JPG"
     },
     {
         "id":"7",
@@ -68,21 +68,21 @@
         "title": "Square 1971 classic",
         "description": "  Inspired by '70s style, the Square 1971 Classic sunglasses feature a bold square frame and thick acetate, perfect for making a fashion statement. ",
         "price": "Rs. 3298",
-        "image": "/assets/img/Square 1971 classic.jpg"
+        "image": "/assets/img/Square 1971 classic.JPG"
     },
     {
         "id":"11",
         "title": "Doreen",
         "description": " The Doreen sunglasses offer a chic cat-eye design with a vintage flair, providing timeless elegance and UV protection in a lightweight frame.",
         "price": "Rs. 2989",
-        "image": "/assets/img/Doreen.jpg"
+        "image": "/assets/img/doreen.JPG"
     },
     {
         "id":"12",
         "title": "Round double bridge",
         "description": "With their round lenses and double bridge design, the Round Double Bridge sunglasses offer a bold, retro-inspired look with modern appeal.",
         "price": "Rs. 2790",
-        "image": "/assets/img/Round double bridge.jpg"
+        "image": "/assets/img/Round double bridge.JPG"
     },
     {
         "id":"13",
@@ -96,14 +96,14 @@
         "title": "Elliot",
         "description": "Minimalistic and sleek, the Elliot sunglasses feature a rectangular frame and lightweight construction, providing everyday style and UV protection. ",
         "price": "Rs. 3999",
-        "image": "/assets/img/Elliot.jpg"
+        "image": "/assets/img/Elliot.JPG"
     },
     {
         "id":"15",
         "title": "Round reverse",
         "description": "  The Round Reverse sunglasses feature a unique reverse round lens design and a metal frame, offering a fashion-forward, edgy look with UV protection. ",
         "price": "Rs. 4820",
-        "image": "/assets/img/Round reverse.jpg"
+        "image": "/assets/img/Round reverse.JPG"
     },
     {
         "id":"16",
@@ -117,7 +117,7 @@
         "title": "Enigma ink",
         "description": "The Enigma Ink sunglasses feature a bold, contemporary design with striking ink-colored frames. A stylish choice for those seeking a unique, standout look.",
         "price": "Rs. 2099",
-        "image": "/assets/img/Enigma ink.jpg"
+        "image": "/assets/img/Enigma ink.JPG"
     },
     {
         "id":"18",
@@ -131,7 +131,7 @@
         "title": "Frogskins",
         "description": " The Frogskins sunglasses offer a vibrant, retro-inspired design with a colorful frame and lightweight construction, making them perfect for casual, sunny days. ",
         "price": "Rs. 3499",
-        "image": "/assets/img/Frogskins.jpg"
+        "image": "/assets/img/Frogskins.JPG"
     },
     {
         "id":"20",
@@ -152,7 +152,7 @@
         "title": "Flak 2.0 XL",
         "description": "The Flak 2.0 XL sunglasses offer enhanced coverage with a larger frame and high-performance lenses, ideal for sports and outdoor activities.",
         "price": "Rs. 3990",
-        "image": "/assets/img/Flak 2.0 XL.jpg"
+        "image": "/assets/img/Flak 2.0 XL.JPG"
     },
     {
         "id":"23",
@@ -201,77 +201,77 @@
         "title": "Medusa Biggie Sunglasses",
         "description": "  Bold, oversized frames featuring the iconic Medusa logo for a statement-making, fashion-forward look. ",
         "price": "Rs. 3269",
-        "image": "/assets/img/Medusa Biggie Sunglasses.jpg"
+        "image": "/assets/img/Medusa Biggie Sunglasses.JPG"
     },
     {
         "id":"30",
         "title": "Medusa Biggie Additional Fit Sunglasses",
         "description": "  Larger, adjustable frames with the signature Medusa design, offering enhanced comfort and style for all face shapes. ",
         "price": "Rs. 2900",
-        "image": "/assets/img/Medusa Biggie Additional Fit Sunglasses.jpg"
+        "image": "/assets/img/Medusa Biggie Additional Fit Sunglasses.JPG"
     },
     {
         "id":"31",
         "title": "Medusa Biggie Chrome Sunglasses",
         "description": "  Sleek chrome-finished frames with the bold Medusa emblem, perfect for adding a touch of luxury and edge to your look. ",
         "price": "Rs. 4390",
-        "image": "/assets/img/Medusa Biggie Chrome Sunglasses.jpg"
+        "image": "/assets/img/Medusa Biggie Chrome Sunglasses.JPG"
     },
     {
         "id":"32",
         "title": "Damier Plaque Sunglasses",
         "description": "  Elegant sunglasses featuring a sophisticated Damier-patterned plaque on the temples, blending luxury and modern style. ",
         "price": "Rs. 1999",
-        "image": "/assets/img/Damier Plaque Sunglasses.jpg"
+        "image": "/assets/img/Damier Plaque Sunglasses.JPG"
     },
     {
         "id":"33",
         "title": "Medusa Medallion Shield Sunglasses",
         "description": "  Sporty shield-style lenses adorned with a prominent Medusa medallion, offering high-fashion protection with a bold statement. ",
         "price": "Rs. 2299",
-        "image": "/assets/img/Medusa Medallion Shield Sunglasses.jpg"
+        "image": "/assets/img/Medusa Medallion Shield Sunglasses.JPG"
     },
     {
         "id":"34",
         "title": "Tubular Greca Oval Sunglasses",
         "description": "  Oval frames with a tubular Greca design, bringing a refined, geometric style to your eyewear collection.",
         "price": "Rs. 2999",
-        "image": "/assets/img/Tubular Greca Oval Sunglasses.jpg"
+        "image": "/assets/img/Tubular Greca Oval Sunglasses.JPG"
     },
     {
         "id":"35",
         "title": "Classic Top Sunglasses",
         "description": "  Timeless sunglasses with clean lines and a classic design, perfect for any occasion or outfit. ",
         "price": "Rs. 3999",
-        "image": "/assets/img/Classic Top Sunglasses.jpg"
+        "image": "/assets/img/Classic Top Sunglasses.JPG"
     },
     {
         "id":"36",
         "title": "Lens Logo Sunglasses",
         "description": "  Minimalist frames with a subtle logo on the lenses, offering a sleek, modern aesthetic for everyday wear. ",
         "price": "Rs. 2799",
-        "image": "/assets/img/Lens Logo Sunglasses.jpg"
+        "image": "/assets/img/Lens Logo Sunglasses.JPG"
     },
     {
         "id":"37",
         "title": "Damier Plaque Squared Shield Sunglasses",
         "description": "  Square shield sunglasses featuring a luxurious Damier plaque for a stylish and bold fashion statement. ",
         "price": "Rs. 3699",
-        "image": "/assets/img/Damier Plaque Squared Shield Sunglasses.jpg"
+        "image": "/assets/img/Damier Plaque Squared Shield Sunglasses.JPG"
     },
     {
         "id":"38",
         "title": "Greca Strass Butterfly Sunglasses",
         "description": "  Glamorous butterfly-shaped frames embellished with sparkling Greca strass detailing, adding a touch of elegance to your look.",
         "price": "Rs. 3799",
-        "image": "/assets/img/Greca Strass Butterfly Sunglasses.jpg"
+        "image": "/assets/img/Greca Strass Butterfly Sunglasses.JPG"
     },
     {
         "id":"39",
         "title": "Medusa Deco Sunglasses",
         "description": "  Stylish sunglasses with a deco-inspired design, featuring the iconic Medusa motif for a sophisticated, high-fashion appeal. ",
         "price": "Rs. 3299",
-        "image": "/assets/img/Medusa Deco Sunglasses.jpg"
+        "image": "/assets/img/Medusa Deco Sunglasses.JPG"
     },
     {
         "id":"40",
@@ -285,7 +285,7 @@
         "title": "Runway Sunglasses",
         "description": " Sleek, fashion-forward sunglasses perfect for making a bold statement on and off the runway. ",
         "price": "Rs. 4399",
-        "image": "/assets/img/Runway Sunglasses.jpg"
+        "image": "/assets/img/Runway Sunglasses.JPG"
     },
     {
         "id":"42",
@@ -306,76 +306,76 @@
         "title": "Code Square Sunglasses",
         "description": "  Sleek, modern square frames with a stylish design that adds a bold touch to any outfit. ",
         "price": "Rs. 4299",
-        "image": "/assets/img/Code Square Sunglasses.jpg"
+        "image": "/assets/img/Code Square Sunglasses.JPG"
     },
     {
         "id":"45",
         "title": "Metal Logo Square Sunglasses",
         "description": "  Featuring durable metal frames with a signature logo, these square sunglasses combine luxury and practicality. ",
         "price": "Rs. 3999",
-        "image": "/assets/img/Metal Logo Square Sunglasses.jpg"
+        "image": "/assets/img/Metal Logo Square Sunglasses.JPG"
     },
     {
         "id":"46",
         "title": "Shield Facet Cat-eye Sunglasses",
         "description": " A chic cat-eye design with a shield-shaped lens, perfect for a bold, fashion-forward look. ",
         "price": "Rs. 2499",
-        "image": "/assets/img/Shield Facet Cat-eye Sunglasses.jpg"
+        "image": "/assets/img/Shield Facet Cat-eye Sunglasses.JPG"
     },
     {
         "id":"47",
         "title": "Vintage Check Detail Pilot Sunglasses",
         "description": "  Classic pilot style sunglasses with a vintage check pattern for a timeless and stylish appeal. ",
         "price": "Rs. 3999",
-        "image": "/assets/img/Vintage Check Detail Pilot Sunglasses.jpg"
+        "image": "/assets/img/Vintage Check Detail Pilot Sunglasses.JPG"
     },
     {
         "id":"48",
         "title": "Classic Cat-eye Sunglasses",
         "description": " A retro-inspired cat-eye frame that brings elegance and sophistication to any look. ",
         "price": "Rs. 2989",
-        "image": "/assets/img/Classic Cat-eye Sunglasses.jpg"
+        "image": "/assets/img/Classic Cat-eye Sunglasses.JPG"
     },
     {
         "id":"49",
         "title": "Logo Bar Round Sunglasses",
         "description": "  Round sunglasses with a subtle logo bar, blending classic charm with modern flair. ",
         "price": "Rs. 4199",
-        "image": "/assets/img/Logo Bar Round Sunglasses.jpg"
+        "image": "/assets/img/Logo Bar Round Sunglasses.JPG"
     },
     {
         "id":"50",
         "title": "Check Square Sunglasses",
         "description": " Square frames with checkered detailing that exude a unique, contemporary style. ",
         "price": "Rs. 2999",
-        "image": "/assets/img/Check Square Sunglasses.jpg"
+        "image": "/assets/img/Check Square Sunglasses.JPG"
     },
     {
         "id":"51",
         "title": "Icon Stripe Sunglasses",
         "description": "  Sporting a sleek stripe design, these sunglasses are perfect for those who love a sporty, high-fashion vibe. ",
         "price": "Rs. 3599",
-        "image": "/assets/img/Icon Stripe Sunglasses.jpg"
+        "image": "/assets/img/Icon Stripe Sunglasses.JPG"
     },
     {
         "id":"52",
         "title": "Check Rectangular Sunglasses",
         "description": "  Rectangular frames with a distinctive checkered pattern, offering both style and comfort. ",
         "price": "Rs. 3989",
-        "image": "/assets/img/Check Rectangular Sunglasses.jpg"
+        "image": "/assets/img/Check Rectangular Sunglasses.JPG"
     },
     {
         "id":"53",
         "title": "Round Sunglasses",
         "description": "  Timeless round frames that offer a versatile and classic look for any occasion.",
         "price": "Rs. 2989",
-        "image": "/assets/img/Round Sunglasses.jpg"
+        "image": "/assets/img/Round Sunglasses.JPG"
     },
     {
         "id":"54",
         "title": "Arch Facet Sunglasses",
         "description": "  Bold, angular frames with facet detailing for a modern and cutting-edge style statement. ",
         "price": "Rs. 3999",
-        "image": "/assets/img/Arch Facet Sunglasses.jpg"
+        "image": "/assets/img/Arch Facet Sunglasses.JPG"
     }
 ]
